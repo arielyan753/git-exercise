@@ -1,2 +1,2 @@
 # git-exercise 
-this is a test :)
+this is an exericise :)
